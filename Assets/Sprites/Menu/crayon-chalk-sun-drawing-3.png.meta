@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 3dc701be83b10a24b81becb42810a811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5795366844438718418
+    second: crayon-chalk-sun-drawing-3_0
+  - first:
+      213: -4912090549030930548
+    second: crayon-chalk-sun-drawing-3_1
+  - first:
+      213: -2420129776863804689
+    second: crayon-chalk-sun-drawing-3_2
+  - first:
+      213: -3197523855265177527
+    second: crayon-chalk-sun-drawing-3_3
+  - first:
+      213: -7339761298578106670
+    second: crayon-chalk-sun-drawing-3_4
+  - first:
+      213: -8744579314603480589
+    second: crayon-chalk-sun-drawing-3_5
+  - first:
+      213: 1898246797218163997
+    second: crayon-chalk-sun-drawing-3_6
+  - first:
+      213: 7947617590315318304
+    second: crayon-chalk-sun-drawing-3_7
+  - first:
+      213: 2035333628208286670
+    second: crayon-chalk-sun-drawing-3_8
+  - first:
+      213: 3140732772601184660
+    second: crayon-chalk-sun-drawing-3_9
+  - first:
+      213: -5403176613859112866
+    second: crayon-chalk-sun-drawing-3_10
+  - first:
+      213: 1203497023173166622
+    second: crayon-chalk-sun-drawing-3_11
+  - first:
+      213: 3578968805649018868
+    second: crayon-chalk-sun-drawing-3_12
+  - first:
+      213: 5832821858671548213
+    second: crayon-chalk-sun-drawing-3_13
+  - first:
+      213: 2786664594830447230
+    second: crayon-chalk-sun-drawing-3_14
+  - first:
+      213: 7006450320018955388
+    second: crayon-chalk-sun-drawing-3_15
+  - first:
+      213: -5755093961189761925
+    second: crayon-chalk-sun-drawing-3_16
+  - first:
+      213: 5599992026217458046
+    second: crayon-chalk-sun-drawing-3_17
+  - first:
+      213: 644025054929462820
+    second: crayon-chalk-sun-drawing-3_18
+  - first:
+      213: 6832034423009779722
+    second: crayon-chalk-sun-drawing-3_19
+  - first:
+      213: 594662510797582420
+    second: crayon-chalk-sun-drawing-3_20
+  - first:
+      213: 3842586997669224084
+    second: crayon-chalk-sun-drawing-3_21
+  - first:
+      213: 2815872861567673186
+    second: crayon-chalk-sun-drawing-3_22
+  - first:
+      213: -1548093246680211173
+    second: crayon-chalk-sun-drawing-3_23
+  - first:
+      213: -3314995965781728155
+    second: crayon-chalk-sun-drawing-3_24
+  - first:
+      213: 8029069935728797794
+    second: crayon-chalk-sun-drawing-3_25
+  - first:
+      213: -8496111036381066319
+    second: crayon-chalk-sun-drawing-3_26
+  - first:
+      213: -1190449820344206314
+    second: crayon-chalk-sun-drawing-3_27
+  - first:
+      213: -6675141756611574582
+    second: crayon-chalk-sun-drawing-3_28
+  - first:
+      213: 1448584662346808741
+    second: crayon-chalk-sun-drawing-3_29
+  - first:
+      213: 3155402085671331001
+    second: crayon-chalk-sun-drawing-3_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_0
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1690
+        width: 401
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a8d990774d6050800000000000000
+      internalID: 5795366844438718418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_1
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1463
+        width: 635
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873578cbafb4dbb0800000000000000
+      internalID: -4912090549030930548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_2
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1973
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe200b35ac8f96ed0800000000000000
+      internalID: -2420129776863804689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_3
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1990
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e41eaefc10a3d0800000000000000
+      internalID: -3197523855265177527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_4
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1958
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d697169cfde32a90800000000000000
+      internalID: -7339761298578106670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1500
+        width: 581
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a4d2b17305a680800000000000000
+      internalID: -8744579314603480589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_6
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1707
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d263c976de75a10800000000000000
+      internalID: 1898246797218163997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 633
+        width: 1017
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cf361171c9b4e60800000000000000
+      internalID: 7947617590315318304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_8
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb03c4b625fe3c10800000000000000
+      internalID: 2035333628208286670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 583
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491425df0df169b20800000000000000
+      internalID: 3140732772601184660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_10
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 940
+        width: 498
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58ca383f7f0405b0800000000000000
+      internalID: -5403176613859112866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_11
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160a7a8a2ea3b010800000000000000
+      internalID: 1203497023173166622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_12
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1291
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe9e2aa2d0ba130800000000000000
+      internalID: 3578968805649018868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_13
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1157
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537504ca39852f050800000000000000
+      internalID: 5832821858671548213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_14
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72d6034fa83ca620800000000000000
+      internalID: 2786664594830447230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_15
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 941
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd62db179eb3160800000000000000
+      internalID: 7006450320018955388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_16
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 912
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd94ab88cc120b0800000000000000
+      internalID: -5755093961189761925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_17
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 233
+        width: 552
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7926bbe31b27bd40800000000000000
+      internalID: 5599992026217458046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_18
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 867
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a581106900f800800000000000000
+      internalID: 644025054929462820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 104
+        width: 642
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a002dbc2c1340de50800000000000000
+      internalID: 6832034423009779722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_20
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 624
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f455276aa04800800000000000000
+      internalID: 594662510797582420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 626
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49edb96f38c935530800000000000000
+      internalID: 3842586997669224084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 600
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263676ec27df31720800000000000000
+      internalID: 2815872861567673186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_23
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 521
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11e170f461148ae0800000000000000
+      internalID: -1548093246680211173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_24
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 519
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5642ab39bb4cef1d0800000000000000
+      internalID: -3314995965781728155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_25
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 520
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26822e3119cfc6f60800000000000000
+      internalID: 8029069935728797794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 3
+        width: 464
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0b38d600c71a80800000000000000
+      internalID: -8496111036381066319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_27
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 452
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb477123caa7fe0800000000000000
+      internalID: -1190449820344206314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_28
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 231
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac44ac350f12d53a0800000000000000
+      internalID: -6675141756611574582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_29
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 220
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adb24253186a1410800000000000000
+      internalID: 1448584662346808741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crayon-chalk-sun-drawing-3_30
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 0
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b467f79a7d3acb20800000000000000
+      internalID: 3155402085671331001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crayon-chalk-sun-drawing-3_0: 5795366844438718418
+      crayon-chalk-sun-drawing-3_1: -4912090549030930548
+      crayon-chalk-sun-drawing-3_10: -5403176613859112866
+      crayon-chalk-sun-drawing-3_11: 1203497023173166622
+      crayon-chalk-sun-drawing-3_12: 3578968805649018868
+      crayon-chalk-sun-drawing-3_13: 5832821858671548213
+      crayon-chalk-sun-drawing-3_14: 2786664594830447230
+      crayon-chalk-sun-drawing-3_15: 7006450320018955388
+      crayon-chalk-sun-drawing-3_16: -5755093961189761925
+      crayon-chalk-sun-drawing-3_17: 5599992026217458046
+      crayon-chalk-sun-drawing-3_18: 644025054929462820
+      crayon-chalk-sun-drawing-3_19: 6832034423009779722
+      crayon-chalk-sun-drawing-3_2: -2420129776863804689
+      crayon-chalk-sun-drawing-3_20: 594662510797582420
+      crayon-chalk-sun-drawing-3_21: 3842586997669224084
+      crayon-chalk-sun-drawing-3_22: 2815872861567673186
+      crayon-chalk-sun-drawing-3_23: -1548093246680211173
+      crayon-chalk-sun-drawing-3_24: -3314995965781728155
+      crayon-chalk-sun-drawing-3_25: 8029069935728797794
+      crayon-chalk-sun-drawing-3_26: -8496111036381066319
+      crayon-chalk-sun-drawing-3_27: -1190449820344206314
+      crayon-chalk-sun-drawing-3_28: -6675141756611574582
+      crayon-chalk-sun-drawing-3_29: 1448584662346808741
+      crayon-chalk-sun-drawing-3_3: -3197523855265177527
+      crayon-chalk-sun-drawing-3_30: 3155402085671331001
+      crayon-chalk-sun-drawing-3_4: -7339761298578106670
+      crayon-chalk-sun-drawing-3_5: -8744579314603480589
+      crayon-chalk-sun-drawing-3_6: 1898246797218163997
+      crayon-chalk-sun-drawing-3_7: 7947617590315318304
+      crayon-chalk-sun-drawing-3_8: 2035333628208286670
+      crayon-chalk-sun-drawing-3_9: 3140732772601184660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

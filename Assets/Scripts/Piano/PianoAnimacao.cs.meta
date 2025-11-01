@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 2052ec5e57589074ba61b1d9733f51bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lowC: {instanceID: 0}
+  - lowD: {instanceID: 0}
+  - lowE: {instanceID: 0}
+  - lowF: {instanceID: 0}
+  - lowG: {instanceID: 0}
+  - lowA: {instanceID: 0}
+  - lowB: {instanceID: 0}
+  - lowCs: {instanceID: 0}
+  - lowDs: {instanceID: 0}
+  - lowFs: {instanceID: 0}
+  - lowGs: {instanceID: 0}
+  - lowAs: {instanceID: 0}
+  - highC: {instanceID: 0}
+  - highD: {instanceID: 0}
+  - highE: {instanceID: 0}
+  - highF: {instanceID: 0}
+  - highG: {instanceID: 0}
+  - highA: {instanceID: 0}
+  - highB: {instanceID: 0}
+  - highCs: {instanceID: 0}
+  - highDs: {instanceID: 0}
+  - highFs: {instanceID: 0}
+  - highGs: {instanceID: 0}
+  - highAs: {instanceID: 0}
+  - lowCPressed: {fileID: -2021519815, guid: dd7be9123e2f81046b908a0119a80d56, type: 3}
+  - lowCNormal: {fileID: -2021519815, guid: dd7be9123e2f81046b908a0119a80d56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
